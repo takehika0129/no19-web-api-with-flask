@@ -20,7 +20,7 @@ A basic web API built with Flask that handles **GET** and **POST** requests and 
 
 ## Requirements
 - Python 3.x
-- Flask
+- `Flask`
 
 Install dependencies:
 ```sh
